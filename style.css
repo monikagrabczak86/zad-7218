@@ -58,3 +58,9 @@
     border-style: solid;
     border-color: darkviolet;
 }
+#przycisk {
+    width: 100px;
+    height: 50px;
+    background-color: yellow;
+    color: darkblue;
+}
