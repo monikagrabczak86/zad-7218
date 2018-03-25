@@ -13,3 +13,27 @@
 #AboutUs {
     background-color: aqua;
 }
+#div1 {
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: run-in;
+}
+#div2 {
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+#div3 {
+    background-color: darkviolet;
+    width: 100px;
+    height: 100px;
+}
+#div4 {
+    background-color: deeppink;
+    width: 100px;
+    height: 100px;
+}
+#div1, #div2, #div3, #div4 {
+    display: inline-block;
+}
